@@ -181,7 +181,7 @@ $W^{I}$为V X N的参数矩阵，$W^{O}$为N X V的参数矩阵。
 而CBOW为给定周围的词，预测中心词，即求P(c|o),如下图所示：
 
 <div align=center>
-<img src="http://ryluo.oss-cn-chengdu.aliyuncs.com/图片10.png" alt="在这里插入图片描述" style="zoom:50%;" /> 
+<img src="http://ryluo.oss-cn-chengdu.aliyuncs.com/图片10.png" /> 
 </div>
 
 
